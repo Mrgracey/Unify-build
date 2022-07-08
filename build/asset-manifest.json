@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Unify-build/static/css/main.4d3699f2.css",
+    "main.css": "/Unify-build/static/css/main.578624d1.css",
     "main.js": "/Unify-build/static/js/main.457585f7.js",
     "static/media/hero-header.png": "/Unify-build/static/media/hero-header.4d74a7809b60f7792e85.png",
     "static/media/Looper1.png": "/Unify-build/static/media/Looper1.c9edbb3791ef1c5a56b3.png",
@@ -27,11 +27,11 @@
     "static/media/emerald_illus.png": "/Unify-build/static/media/emerald_illus.6913e65cd49fb3ff3e8a.png",
     "static/media/moon_illus.png": "/Unify-build/static/media/moon_illus.40ed5d4d6ce2f54e9764.png",
     "index.html": "/Unify-build/index.html",
-    "main.4d3699f2.css.map": "/Unify-build/static/css/main.4d3699f2.css.map",
+    "main.578624d1.css.map": "/Unify-build/static/css/main.578624d1.css.map",
     "main.457585f7.js.map": "/Unify-build/static/js/main.457585f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d3699f2.css",
+    "static/css/main.578624d1.css",
     "static/js/main.457585f7.js"
   ]
 }
