@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Unify-build/static/css/main.4d3699f2.css",
+    "main.js": "/Unify-build/static/js/main.457585f7.js",
+    "static/media/hero-header.png": "/Unify-build/static/media/hero-header.4d74a7809b60f7792e85.png",
+    "static/media/Looper1.png": "/Unify-build/static/media/Looper1.c9edbb3791ef1c5a56b3.png",
+    "static/media/Looper2.png": "/Unify-build/static/media/Looper2.553292da69fdc73384cd.png",
+    "static/media/Statue.png": "/Unify-build/static/media/Statue.1d288e8595fd73a9307e.png",
+    "static/media/INTER-EXTRABOLD.TTF": "/Unify-build/static/media/INTER-EXTRABOLD.ff90249a320fd94ec508.TTF",
+    "static/media/INTER-BOLD.TTF": "/Unify-build/static/media/INTER-BOLD.1eca2d329458b92342aa.TTF",
+    "static/media/INTER-MEDIUM.TTF": "/Unify-build/static/media/INTER-MEDIUM.4ebf1acf62f447ea2f0d.TTF",
+    "static/media/INTER-REGULAR.TTF": "/Unify-build/static/media/INTER-REGULAR.a3e5baa244e35d0f891d.TTF",
+    "static/media/token.png": "/Unify-build/static/media/token.1721dee6f190b8bb3c59.png",
+    "static/media/globe.png": "/Unify-build/static/media/globe.0d7a699d794e103700f4.png",
+    "static/media/EPILOGUE-EXTRABOLD.TTF": "/Unify-build/static/media/EPILOGUE-EXTRABOLD.fba84a089cac3433d854.TTF",
+    "static/media/EPILOGUE-BOLD.TTF": "/Unify-build/static/media/EPILOGUE-BOLD.6b610bff2224fb46a1e1.TTF",
+    "static/media/EPILOGUE-MEDIUM.TTF": "/Unify-build/static/media/EPILOGUE-MEDIUM.b5d105e499fdbc4b99ab.TTF",
+    "static/media/EPILOGUE-REGULAR.TTF": "/Unify-build/static/media/EPILOGUE-REGULAR.10c41766bc24462ff98e.TTF",
+    "static/media/phone.png": "/Unify-build/static/media/phone.3c79940e827176af0f8a.png",
+    "static/media/Group1.png": "/Unify-build/static/media/Group1.e2e9663d6c9159f52018.png",
+    "static/media/SYNE-EXTRABOLD.TTF": "/Unify-build/static/media/SYNE-EXTRABOLD.bb2684d0e34d72d1d9b8.TTF",
+    "static/media/SYNE-BOLD.TTF": "/Unify-build/static/media/SYNE-BOLD.62035ebd1713d875ce3b.TTF",
+    "static/media/SYNE-MEDIUM.TTF": "/Unify-build/static/media/SYNE-MEDIUM.c3186bdb59071ba33a2b.TTF",
+    "static/media/SYNE-REGULAR.TTF": "/Unify-build/static/media/SYNE-REGULAR.f03e82ab1dcd3d93c511.TTF",
+    "static/media/amber_illus.png": "/Unify-build/static/media/amber_illus.3e476d79a4cf003ee0fd.png",
+    "static/media/saphire_illus.png": "/Unify-build/static/media/saphire_illus.200e7dac53395ed4a711.png",
+    "static/media/emerald_illus.png": "/Unify-build/static/media/emerald_illus.6913e65cd49fb3ff3e8a.png",
+    "static/media/moon_illus.png": "/Unify-build/static/media/moon_illus.40ed5d4d6ce2f54e9764.png",
+    "index.html": "/Unify-build/index.html",
+    "main.4d3699f2.css.map": "/Unify-build/static/css/main.4d3699f2.css.map",
+    "main.457585f7.js.map": "/Unify-build/static/js/main.457585f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3699f2.css",
+    "static/js/main.457585f7.js"
+  ]
+}
